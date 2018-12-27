@@ -31,6 +31,9 @@ public enum DbType {
     SQLITE("sqlite"),
     SQL_SERVER("sql_server"),
     POSTGRE_SQL("postgre_sql"),
+	KING_BASE("king_base"),
+    DM("dm"),
+    INFORMIX("informix"),
     OTHER("other db");
 
 
